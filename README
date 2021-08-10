@@ -1,0 +1,7 @@
+my shell
+Redirection kind of works
+All built in stuff works
+Complex Command is not working, only difference between expected output
+and my output if 4 newlines at the end, I have no idea how to fix it, it's
+driving me crazy any input on that would be appreciated.
+Advanced redirection doesn't work at all, ran out of time.
